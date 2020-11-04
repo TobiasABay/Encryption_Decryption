@@ -1,0 +1,9 @@
+you need to download the following parts:
+  1. tkinter
+  2. cryptography
+Tkinter is the part that let you use the program basically a GUI
+cryptography is the encryption/decryption algorithm
+the program creates a txt file where it registers your reported data - (encryption_codes)
+
+
+Example of the program in folder "Example_program"
